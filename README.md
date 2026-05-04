@@ -7,7 +7,7 @@ Analisar como características do perfil das pessoas influenciam suas preferênc
 
 ## 📊 Dados
 - Coletados via formulário online
-- Total de respostas: XX
+- Total de respostas: 65
 - Variáveis:
   - Idade
   - Gênero
