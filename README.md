@@ -2,6 +2,7 @@ Análise de Preferências Musicais - Perspectiva de Negócio
 
 
 -----------------Contexto de Negócio
+
 Plataformas de streaming musical enfrentam um desafio central:
 como recomendar músicas relevantes para diferentes perfis de usuários, maximizando engajamento e retenção.
 
