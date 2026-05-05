@@ -135,7 +135,15 @@ Possível viés de coleta
 Dados declarados (não comportamento real de streaming)
 
 ------------------Ferramentas utilizadas
+
 Google Forms
 Google Sheets
 SQLite
 VS Code
+
+## Como reproduzir o projeto
+
+1. Criar banco SQLite
+2. Executar sql/setup.sql
+3. Importar dados.csv
+4. Executar sql/queries.sql
