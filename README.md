@@ -1,3 +1,8 @@
+## Visão Geral
+
+Este projeto simula uma análise de dados aplicada a um problema real de negócio:  
+como plataformas de streaming podem melhorar recomendação musical e engajamento de usuários.
+
 ## Análise de Preferências Musicais - Perspectiva de Negócio
 
 
@@ -147,3 +152,7 @@ VS Code
 2. Executar sql/setup.sql
 3. Importar dados.csv
 4. Executar sql/queries.sql
+
+## Autor
+
+Projeto desenvolvido por Gilsemberg como estudo de análise de dados com foco em negócio.
